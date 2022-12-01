@@ -1,0 +1,22 @@
+{
+  "name": "twitchtts",
+  "version": "2.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "pkg index.js --target node16-win-x64 && move index.exe twitchtts.exe"
+  },
+  "author": "SoCuul",
+  "license": "ISC",
+  "dependencies": {
+    "better-sqlite3": "^7.4.4",
+    "chalk": "^5.1.2",
+    "dotenv": "^16.0.3",
+    "enmap": "^5.8.7",
+    "one-time": "^1.0.0",
+    "queuelib": "^4.0.1",
+    "tmi.js": "^1.8.5"
+  }
+}
