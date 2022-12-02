@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(8,0,0,8,-1792,-1792)">
+        <g transform="matrix(1,0,0,1,224,224)">
+            <circle cx="32" cy="32" r="32" style="fill:rgb(180,117,240);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,224,224)">
+            <g opacity="0.2">
+                <path d="M31.3,26.7L16.2,44.2C15.5,44.9 15.5,46 16.2,46.6L17,47.4L15,49.4C14.4,50 14.4,50.9 15,51.5C15.3,51.8 15.7,51.9 16.1,51.9C16.5,51.9 16.9,51.8 17.2,51.5L19.2,49.5L19.8,50.1C20.5,50.8 21.6,50.8 22.2,50.1L39.9,35.2C37.8,34.7 35.9,33.7 34.4,32.2C32.7,30.7 31.7,28.7 31.3,26.7Z" style="fill:rgb(35,31,32);fill-rule:nonzero;"/>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,224,224)">
+            <circle cx="42.2" cy="24.8" r="9.2" style="fill:rgb(35,31,32);fill-opacity:0.2;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,224,224)">
+            <circle cx="42.2" cy="21.8" r="9.2" style="fill:rgb(145,70,255);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,224,224)">
+            <path d="M31.3,24.2L16.2,41.7C15.5,42.4 15.5,43.5 16.2,44.1L17,44.9L15,46.9C14.4,47.5 14.4,48.4 15,49C15.3,49.3 15.7,49.4 16.1,49.4C16.5,49.4 16.9,49.3 17.2,49L19.2,47L19.8,47.6C20.5,48.3 21.6,48.3 22.2,47.6L39.9,32.7C37.8,32.2 35.9,31.2 34.4,29.7C32.7,28.2 31.7,26.2 31.3,24.2Z" style="fill:rgb(79,93,115);fill-rule:nonzero;"/>
+            <path d="M48,28.9C45.2,28 42.6,26.4 40.4,24.3C37.9,21.8 36.3,18.8 35.5,15.5C32.1,19.1 32.1,24.8 35.6,28.3C37.4,30.1 39.7,31 42.1,31C44.3,31 46.3,30.3 48,28.9Z" style="fill:rgb(79,93,115);fill-rule:nonzero;"/>
+            <path d="M48.7,15.3C46.9,13.5 44.6,12.6 42.2,12.6C40.8,12.6 39.4,12.9 38.1,13.6C38.7,16.8 40.1,19.8 42.6,22.2C44.8,24.4 47.4,25.8 50.2,26.4C52.1,23 51.7,18.4 48.7,15.3Z" style="fill:rgb(79,93,115);fill-rule:nonzero;"/>
+        </g>
+    </g>
+</svg>
